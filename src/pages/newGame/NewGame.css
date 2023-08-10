@@ -1,0 +1,7 @@
+.start, .home {
+    font-size: 1.2em;
+    margin: 1em 4em;
+    width: 10em;
+    justify-content: center;
+    align-items: center;
+}
